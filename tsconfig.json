@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "CommonJS", // Change the module option to CommonJS
+    "outDir": "./dist",
+    "rootDir": "./api",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
